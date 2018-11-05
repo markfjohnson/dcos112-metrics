@@ -1,0 +1,149 @@
+{
+    "query": {
+        "count": 1,
+        "created": "2017-08-18T20:57:23Z",
+        "lang": "en-US",
+        "results": {
+            "channel": {
+                "astronomy": {
+                    "sunrise": "5:54 am",
+                    "sunset": "7:41 pm"
+                },
+                "atmosphere": {
+                    "humidity": "79",
+                    "pressure": "1008.0",
+                    "rising": "0",
+                    "visibility": "16.1"
+                },
+                "description": "Yahoo! Weather for Boston, MA, US",
+                "image": {
+                    "height": "18",
+                    "link": "http://weather.yahoo.com",
+                    "title": "Yahoo! Weather",
+                    "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif",
+                    "width": "142"
+                },
+                "item": {
+                    "condition": {
+                        "code": "11",
+                        "date": "Fri, 18 Aug 2017 04:00 PM EDT",
+                        "temp": "77",
+                        "text": "Showers"
+                    },
+                    "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/11.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Showers\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Fri - Scattered Thunderstorms. High: 80Low: 65\n<BR /> Sat - Scattered Thunderstorms. High: 85Low: 71\n<BR /> Sun - Sunny. High: 82Low: 69\n<BR /> Mon - Mostly Sunny. High: 85Low: 66\n<BR /> Tue - Partly Cloudy. High: 88Low: 70\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2367105/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+                    "forecast": [
+                        {
+                            "code": "47",
+                            "date": "18 Aug 2017",
+                            "day": "Fri",
+                            "high": "80",
+                            "low": "65",
+                            "text": "Scattered Thunderstorms"
+                        },
+                        {
+                            "code": "47",
+                            "date": "19 Aug 2017",
+                            "day": "Sat",
+                            "high": "85",
+                            "low": "71",
+                            "text": "Scattered Thunderstorms"
+                        },
+                        {
+                            "code": "32",
+                            "date": "20 Aug 2017",
+                            "day": "Sun",
+                            "high": "82",
+                            "low": "69",
+                            "text": "Sunny"
+                        },
+                        {
+                            "code": "34",
+                            "date": "21 Aug 2017",
+                            "day": "Mon",
+                            "high": "85",
+                            "low": "66",
+                            "text": "Mostly Sunny"
+                        },
+                        {
+                            "code": "30",
+                            "date": "22 Aug 2017",
+                            "day": "Tue",
+                            "high": "88",
+                            "low": "70",
+                            "text": "Partly Cloudy"
+                        },
+                        {
+                            "code": "4",
+                            "date": "23 Aug 2017",
+                            "day": "Wed",
+                            "high": "82",
+                            "low": "71",
+                            "text": "Thunderstorms"
+                        },
+                        {
+                            "code": "30",
+                            "date": "24 Aug 2017",
+                            "day": "Thu",
+                            "high": "76",
+                            "low": "65",
+                            "text": "Partly Cloudy"
+                        },
+                        {
+                            "code": "30",
+                            "date": "25 Aug 2017",
+                            "day": "Fri",
+                            "high": "73",
+                            "low": "63",
+                            "text": "Partly Cloudy"
+                        },
+                        {
+                            "code": "30",
+                            "date": "26 Aug 2017",
+                            "day": "Sat",
+                            "high": "74",
+                            "low": "61",
+                            "text": "Partly Cloudy"
+                        },
+                        {
+                            "code": "30",
+                            "date": "27 Aug 2017",
+                            "day": "Sun",
+                            "high": "74",
+                            "low": "61",
+                            "text": "Partly Cloudy"
+                        }
+                    ],
+                    "guid": {
+                        "isPermaLink": "false"
+                    },
+                    "lat": "42.358631",
+                    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2367105/",
+                    "long": "-71.056702",
+                    "pubDate": "Fri, 18 Aug 2017 04:00 PM EDT",
+                    "title": "Conditions for Boston, MA, US at 04:00 PM EDT"
+                },
+                "language": "en-us",
+                "lastBuildDate": "Fri, 18 Aug 2017 04:57 PM EDT",
+                "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2367105/",
+                "location": {
+                    "city": "Boston",
+                    "country": "United States",
+                    "region": " MA"
+                },
+                "title": "Yahoo! Weather - Boston, MA, US",
+                "ttl": "60",
+                "units": {
+                    "distance": "mi",
+                    "pressure": "in",
+                    "speed": "mph",
+                    "temperature": "F"
+                },
+                "wind": {
+                    "chill": "77",
+                    "direction": "200",
+                    "speed": "22"
+                }
+            }
+        }
+    }
+}
