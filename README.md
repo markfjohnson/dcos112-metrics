@@ -18,9 +18,13 @@ For this example, we will demonstrate how to extract metrics using the DC/OS CLI
 * Node level metrics
 * Task Level metrics
 
-[Run through EXAMPLE #1: Retrieiving metrics from the DC/OS CLU](dcos-metrics-cli)
+[Click to run through the example #1](https://github.com/markfjohnson/dcos112-metrics/tree/master/dcos-metrics-cli)
 
 ## EXAMPLE #2: Install Prometheus and Grafana and setup a sample Dashboard
 Grafana and Prometheus working together provide powerful 
 
+[Click to run through the example #2](https://github.com/markfjohnson/dcos112-metrics/tree/master/Installation)
+
 ## EXAMPLE #3: Monitor a running application under load
+
+[Click to run through the example #3](https://github.com/markfjohnson/dcos112-metrics/tree/master/weblogic-load-test)
