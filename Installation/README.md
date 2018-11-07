@@ -42,5 +42,6 @@ Marks-MacBook-Pro:Installation markjohnson$ dcos prometheus endpoints prometheus
 * HTTP URL: http://prometheus-0-server.prometheus.autoip.dcos.thisdcos.directory:1026
 
 2. Import the Prometheus dashboard and review metrics
+![](https://github.com/markfjohnson/dcos112-metrics/blob/master/Installation/images/Prometheus%20Metrics.png?raw=true)
 
 3. Create a new Grafana Dashboard and setup a query
