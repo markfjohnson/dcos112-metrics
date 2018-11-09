@@ -45,3 +45,7 @@ Marks-MacBook-Pro:Installation markjohnson$ dcos prometheus endpoints prometheus
 ![](https://github.com/markfjohnson/dcos112-metrics/blob/master/Installation/images/Prometheus%20Metrics.png?raw=true)
 
 3. Create a new Grafana Dashboard and setup a query
+
+
+## References
+To identify the default set of DC/OS metrics available to Prometheus and Grafana connect to: https://docs.mesosphere.com/1.12/metrics/reference/
