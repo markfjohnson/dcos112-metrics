@@ -26,8 +26,10 @@ You can also use Edge-LB if you are an enterprise customer.
     ![](https://github.com/markfjohnson/dcos112-metrics/blob/master/Installation/images/Prometheus_graph_view.png?raw=true)
 
 ## Become familiar with Grafana
-1. Use the Public IP address for your cluster to access Grafana at port 9094
+1. Use the Public IP address for your cluster to access Grafana at port 9094.
 
+   The user login for Grafana is **admin/admin**.
+   
 2. Create a Prometheus Datasource
 ```aidl
 Marks-MacBook-Pro:Installation markjohnson$ dcos prometheus endpoints prometheus
@@ -42,6 +44,8 @@ Marks-MacBook-Pro:Installation markjohnson$ dcos prometheus endpoints prometheus
 * HTTP URL: http://prometheus-0-server.prometheus.autoip.dcos.thisdcos.directory:1026
 
 2. Import the Prometheus dashboard and review metrics
+    * [Download](https://raw.githubusercontent.com/markfjohnson/dcos112-metrics/master/Installation/Prometheus%202.0%20Stats.json) the Prometheus dashboard.
+    * Go in
 ![](https://github.com/markfjohnson/dcos112-metrics/blob/master/Installation/images/Prometheus%20Metrics.png?raw=true)
 
 3. Create a new Grafana Dashboard and setup a query
