@@ -25,6 +25,7 @@ You can also use Edge-LB if you are an enterprise customer.
 
 2. Perform a sample Prometheus Query
     ![](https://github.com/markfjohnson/dcos112-metrics/blob/master/Installation/images/Prometheus%20Query.png?raw=true)
+    Click [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjX4JLFxvfeAhWR3VMKHYwBC0oQFjAAegQICRAB&url=https%3A%2F%2Fprometheus.io%2Fdocs%2Fprometheus%2Flatest%2Fquerying%2Fbasics%2F&usg=AOvVaw2W69ezMe6KNw1u_5toIaPY) for more information about Prometheus queries.
 
 3. Show graph Mode
     ![](https://github.com/markfjohnson/dcos112-metrics/blob/master/Installation/images/Prometheus_graph_view.png?raw=true)
