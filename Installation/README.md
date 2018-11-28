@@ -1,5 +1,9 @@
 # EXAMPLE #2: Install Prometheus and Grafana and setup a sample Dashboard
 
+## Requirements
+* A fully functioning and Health DC/OS Cluster
+* Ports 9090 - 9094 open on your firewall
+
 ## Install Prometheus and Grafan to your cluster
 1. Setup Marathon-lb
 You can also use Edge-LB if you are an enterprise customer.
