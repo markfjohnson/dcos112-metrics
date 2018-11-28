@@ -80,7 +80,7 @@
       "path": "/benefits/"
     }
   ],
-  "instances": 0,
+  "instances": 1,
   "maxLaunchDelaySeconds": 3600,
   "mem": 2048,
   "gpus": 0,
