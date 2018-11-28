@@ -4,10 +4,11 @@
 * A fully functioning and Health DC/OS Cluster
 * Ports 9090 - 9094 open on your firewall
 
-## Install Prometheus and Grafana to your cluster using Edge-LB
+## Option #1: Install Prometheus and Grafana to your cluster using Edge-LB
+**Enterprise Only:**
 [Follow these instructions in the documentation](https://docs.mesosphere.com/services/prometheus/0.1.1-2.3.2/quick-start-guide/)
 
-## Install Prometheus and Grafana to your cluster using Marathon-lb
+## Option #2: Install Prometheus and Grafana to your cluster using Marathon-lb
 1. Setup Marathon-lb
 You can also use Edge-LB if you are an enterprise customer.
     ```$xslt
